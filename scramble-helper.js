@@ -2,6 +2,13 @@
 
 function reverseWord(str) {
     // Takes a string and returns the reversed version.
+
+
+    // return str.split("").reverse().join(""); (PRO ANSWER)
+
+    let wordArray = str.split("");
+    for (let i = 0; )
+
 }
 
 // Create a function that takes an array of words and returns a new array of the
